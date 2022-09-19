@@ -1,1 +1,0 @@
-{"mappings":"YAEA,IAAMA,EAAUC,SAASC,cAAc,eAIvCC,QAAQC,IAAIJ,G","sources":["src/index.js"],"sourcesContent":["import './css/styles.css';\n\nconst inputEl = document.querySelector('#search-box');\n\nconst DEBOUNCE_DELAY = 300;\n\nconsole.log(inputEl);\n"],"names":["$b8f9b7833fa37166$var$inputEl","document","querySelector","console","log"],"version":3,"file":"index.fccec5d0.js.map"}
